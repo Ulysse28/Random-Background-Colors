@@ -1,0 +1,8 @@
+:root{
+    --main-linear-gradient:linear-gradient(220deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70%),  
+}
+
+body{
+    background:var(--main-linear-gradient) no-repeat;
+    height: 100vh;
+}
